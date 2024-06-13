@@ -1,0 +1,8 @@
+name: UpdraftPlugin
+version: '1.0'
+main: xyz.ki3ragi.updraftplugin.UpdraftPlugin
+api-version: '1.20'
+commands:
+  setupdraftspeed:
+    description: 上昇速度を設定します。
+    usage: /setupdraftspeed <速度>
